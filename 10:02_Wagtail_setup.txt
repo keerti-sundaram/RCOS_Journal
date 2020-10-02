@@ -1,0 +1,10 @@
+After downloading and setting up pipeline (used readme from https://github.com/thepoly/pipeline/blob/master/README.md), set up admin access to Wagtail site (using local host site and added \admin to the end, then logged in).
+
+Practicing using current Poly articles, the goal is to become familiar with Wagtail sites.
+
+1. Have article information (i.e. author, title, body)
+2. Create a child page
+3. Choose type of page to create (I primarily used "Article page" as I was using current articles on the site)
+4. Fill in article information, make sure to add a Slug, under promote bar
+5. Preview to view how the article would look
+6. Save
