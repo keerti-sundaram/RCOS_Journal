@@ -1,6 +1,6 @@
 # RCOS_Journal
 Keeping track of my contributions for RCOS
-
+Utilizing open source code from https://github.com/thepoly/pipeline
 This includes (so far):
 
 - Learning process of Wagtail and Django
